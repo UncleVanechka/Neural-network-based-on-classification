@@ -1,0 +1,2 @@
+# Neural-network-based-on-classification
+Neural network that classifies images of clothing, such as sneakers and shirts. We use the Fashion MNIST dataset which contains 70,000 monochrome images in 10 categories. Each image contains one item of clothing in low resolution (28 by 28 pixels). We use 60,000 images to train the neural network and 10,000 images to test how well the network has learned to classify them. You can access Fashion MNIST directly from TensorFlow.
